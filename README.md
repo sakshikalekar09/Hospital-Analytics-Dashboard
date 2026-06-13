@@ -40,7 +40,7 @@ Images/
 Documentation/
 ---
 ## Dashboard Preview
-https://github.com/sakshikalekar09/Hospital-Analytics-Dashboard/blob/main/citycare-dashboard-preview.png
+![Dashboard Screenshot](citycare-dashboard-preview.png)
 ---
 ## Key Insights
 - Analyze hospital bed utilization.
