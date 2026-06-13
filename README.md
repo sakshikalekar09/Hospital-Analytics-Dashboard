@@ -40,7 +40,7 @@ Images/
 Documentation/
 ---
 ## Dashboard Preview
-![Dashboard Screenshot](Images/Dashboard_Screenshot.png)
+citycare-dashboard-preview.png
 ---
 ## Key Insights
 - Analyze hospital bed utilization.
