@@ -38,6 +38,7 @@ Dashboard/
 Dataset/
 Images/
 Documentation/
+
 ---
 ## Dashboard Preview
 ![Dashboard Screenshot](citycare-dashboard-preview.png)
