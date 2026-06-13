@@ -4,7 +4,7 @@ This project presents a Hospital Analytics Dashboard developed using Microsoft P
 The dashboard helps hospital management monitor patient admissions, discharge trends, billing performance, diagnosis distribution, doctor feedback, and bed occupancy.
 ---
 ## Dashboard Features
-### KPIs
+### Key Performance Indicators (KPIs)
 - Admit Date
 - Discharge Date
 - Follow-up Date
@@ -17,7 +17,7 @@ The dashboard helps hospital management monitor patient admissions, discharge tr
 - Patient Filters
 - Date Range Slicer
 ---
-## Tools Used
+## Tools & Technologies Used
 - Microsoft Power BI
 - Microsoft Excel
 - Data Analytics
